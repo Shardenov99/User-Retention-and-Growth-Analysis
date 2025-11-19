@@ -36,3 +36,6 @@ You can explore the Tableau dashboard here:
 <br>
 
 ## 4.  Summary
+- **Revenue growth is slowing** because the customer base is shifting toward low-value, infrequent buyers.  
+- **New users struggle to become loyal, high-value customers**, limiting long-term revenue potential.  
+- **Loyal, profitable customers are a minority**, and many previously active users have lapsed.  
