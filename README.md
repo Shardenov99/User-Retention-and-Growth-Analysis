@@ -1,8 +1,21 @@
 <h1 align="center"> Tableau Dashboard Overview 🔎</h1>
- link: https://public.tableau.com/app/profile/ilia.shardenov/viz/CapstoneProject_17602890902880/CohortDashboard?publish=yes <br>
- <br>
-Dataset : https://www.kaggle.com/datasets/bytadit/transactional-ecommerce/data
+<br>
 
+## Project Objective
+We’ve noticed that a lot of people are visiting our site, but revenue growth has slowed down during the past year. This project aims to identify where the issues could be coming from by analyzing user behavior, conversion, and customer segments.
+
+---
+
+## Dataset
+[Transactional E-commerce Dataset on Kaggle](https://www.kaggle.com/datasets/bytadit/transactional-ecommerce/data)
+
+---
+
+## Dashboard
+You can explore the Tableau dashboard here:  
+[Interactive Dashboard Link](https://public.tableau.com/app/profile/ilia.shardenov/viz/CapstoneProject_17602890902880/CohortDashboard?publish=yes)
+
+---
 <br>
 
 ## 1. Monthly Cohort Retention Rate
